@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iron Man Helmet
+* source:	https://sketchfab.com/3d-models/iron-man-helmet-f537d86c054f420d9a534f037e72be40
+* author:	matt art digital (https://sketchfab.com/mattartdigital)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iron Man Helmet" (https://sketchfab.com/3d-models/iron-man-helmet-f537d86c054f420d9a534f037e72be40) by matt art digital (https://sketchfab.com/mattartdigital) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
